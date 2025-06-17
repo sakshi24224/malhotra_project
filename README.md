@@ -26,6 +26,8 @@ Welcome to the official website for **Malhotra Enterprises**, a custom manufactu
 
 ---
 Key Features
+
+
 Landing Page with brand introduction and smooth UI
 
 Services Section with details on woven labels, tags, polybags, etc.
@@ -39,6 +41,8 @@ Responsive Design for desktop and mobile
 Dockerized Deployment for frontend and backend
 
 Environment Variable Integration for email safety
+
+
 ## 📁 Project Structure
 
 
